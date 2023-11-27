@@ -1,4 +1,4 @@
-# Hola, soy Fernando Viveros. Desarrollador Web 👋
+<img src="./banner-github.png" alt="Fernando Viveros"/>
 
 ## ¿Quien soy?
 Me llamo Fernando Octavio Viveros, tengo 28 años, soy de Argentina.
