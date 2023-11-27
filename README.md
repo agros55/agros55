@@ -5,11 +5,6 @@ Me llamo Fernando Octavio Viveros, tengo 28 años, soy de Argentina.
 Soy Analista de Sistemas Informaticos y Desarrollador Web.
 Me dedico al FrontEnd con desarrollo puro (HTML, CSS y JavaScript), ademas estoy perfeccionando mis habilidades de desarrollo con React. En el BackEnd utilizo Node.js y Express.js, ademas del manejo de bases de datos MySQL y MongoDB.
 
-
-## 📈 Mis GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=agros55&show_icons=true&theme=gotham&locale=es" alt="agros55" />
-
 ## Tecnologias 
 ### Lenguajes
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,6 +23,10 @@ Me dedico al FrontEnd con desarrollo puro (HTML, CSS y JavaScript), ademas estoy
 
 ### Software
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 📈 Mis GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=agros55&show_icons=true&theme=gotham&locale=es" alt="agros55" />
 
 <!--
 **agros55/agros55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
