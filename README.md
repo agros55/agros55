@@ -1,4 +1,4 @@
-<img src="./banner-github.png" alt="Fernando Viveros"/>
+<img src="./banner-github.jpg" alt="Fernando Viveros" style="width: 100%"/>
 
 ## ¿Quien soy?
 Me llamo Fernando Octavio Viveros, tengo 28 años, soy de Argentina.
