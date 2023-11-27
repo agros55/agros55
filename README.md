@@ -8,7 +8,7 @@ Me dedico al FrontEnd con desarrollo puro (HTML, CSS y JavaScript), ademas estoy
 
 ## 📈 Mis GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=agros55&show_icons=true&theme=gotham" alt="agros55" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=agros55&show_icons=true&theme=gotham&locale=es" alt="agros55" />
 
 ## Tecnologias 
 ### Lenguajes
